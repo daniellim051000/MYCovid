@@ -1,5 +1,5 @@
 # MYCovid
-Malaysia Novel Coronavirus 2019 (Covid-19) Epidemic, as well as vaccination data.
+The one-stop tracking system for the COVID-19 epidemic and vaccination in Malaysia :malaysia:.
 
-Powered by CPRC, CPRC Perubatan, and MySejahtera for the epidemic data.
-Powered by CITF and MySejahtera for the vaccination data.
+Powered by Crisis Preparedness and Response Centre (CPRC) under the Minister of Health (MoH) Malaysia for the epidemic data; <br/>
+and Covid-19 Immunisation Task Force (CITF) Malaysia for the vaccination data.
