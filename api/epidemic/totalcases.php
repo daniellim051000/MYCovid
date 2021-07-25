@@ -1,8 +1,8 @@
 <?php
 
-include_once 'source.php';
+include_once '../source.php';
 
-if (($handle = fopen($msVaccTotalUrl, "r")) !== FALSE) {
+if (($handle = fopen($epidemicTotalNewCasesUrl, "r")) !== FALSE) {
     $csvs = [];
     while(! feof($handle)) {
        $csvs[] = fgetcsv($handle);
